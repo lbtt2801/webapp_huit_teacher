@@ -60,7 +60,13 @@
     "thuchien": "Execute",
     "chongio": "Choose time",
     "gio": "Hour",
-    "phut": "Minute"
+    "phut": "Minute",
+    "xuly": "Process",
+    "localfileviewunsupported": "The file is selected from a device that does not support direct viewing.",
+    "content_is_required": "Content is required",
+    "processed_successfully": "Processed successfully",
+    "themthanhcong": "Added successfully",
+    "capnhatthanhcong": "Updated successfully"
   },
   "thongtinphananh": {
     "thongtinphananh": "Feedback information",
@@ -94,7 +100,15 @@
     "xacnhanthongbao": "Confirm notification to student",
     "capquanly": "Management level",
     "ngaybatdau": "Start date",
-    "vuilongchonngay": " Please choose a date"
+    "vuilongchonngay": "Please choose a date",
+    "vuilongnhaptieude": "Please enter a title",
+    "vuilongnhapnoidung": "Please enter content",
+    "vuilongchonchuyenmuc": "Please choose a category",
+    "vuilongchonnguon": "Please choose a source",
+    "vuilongchonlinhvuc": "Please choose a field",
+    "vuilongchonhinhthuc": "Please choose a type",
+    "vuilongchonhanxuly": "Please choose a deadline",
+    "vuilongchondonvixuly": "Please choose a processing unit"
   },
   "dashboard": {
     "thang": "Month",

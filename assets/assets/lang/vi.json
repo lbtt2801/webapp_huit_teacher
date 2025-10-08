@@ -56,11 +56,17 @@
     "tieudedinhkem": "Hình ảnh, Video, File đính kèm",
     "noidung": "Nội dung",
     "noidungtraodoi": "Nội dung trao đổi",
+    "xuly": "Xử lý",
     "xacnhanvitri": "Xác nhận vị trí",
     "thuchien": "Thực hiện",
     "chongio": "Chọn giờ",
     "gio": "Giờ",
-    "phut": "Phút"
+    "phut": "Phút",
+    "localfileviewunsupported": "File được chọn từ thiết bị chưa hỗ trợ xem trực tiếp",
+    "content_is_required": "Nội dung không được để trống.",
+    "processed_successfully": "Xử lý thành công",
+    "themthanhcong": "Thêm thành công",
+    "capnhatthanhcong": "Cập nhật thành công"
   },
   "thongtinphananh": {
     "thongtinphananh": "Thông tin phản ánh",
@@ -94,7 +100,15 @@
     "xacnhanthongbao": "Xác nhận thông báo với sinh viên",
     "capquanly": "Cấp quản lý",
     "ngaybatdau": "Ngày bắt đầu",
-    "vuilongchonngay": "Vui lòng chọn ngày"
+    "vuilongchonngay": "Vui lòng chọn ngày",
+    "vuilongnhaptieude": " Vui lòng nhập tiêu đề",
+    "vuilongnhapnoidung": " Vui lòng nhập nội dung",
+    "vuilongchonchuyenmuc": " Vui lòng chọn chuyên mục",
+    "vuilongchonlinhvuc": " Vui lòng chọn lĩnh vực",
+    "vuilongchonnguon": " Vui lòng chọn nguồn",
+    "vuilongchonhinhthuc": " Vui lòng chọn hình thức",
+    "vuilongchonhanxuly": " Vui lòng chọn hạn xử lý",
+    "vuilongchondonvixuly": " Vui lòng chọn đơn vị xử lý"
   },
   "dashboard": {
     "thang": "Tháng",
