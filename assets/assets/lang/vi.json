@@ -133,7 +133,9 @@
     "vuilongchonhinhthuc": " Vui lòng chọn hình thức",
     "vuilongchonhanxuly": " Vui lòng chọn hạn xử lý",
     "vuilongchondonvixuly": " Vui lòng chọn đơn vị xử lý",
-    "bancomuonxoaphananh": "Bạn có muốn xóa phản ánh này?"
+    "bancomuonxoaphananh": "Bạn có muốn xóa phản ánh này?",
+    "congkhaiphananh": "Công khai phản ánh",
+    "chedoxemtruoc": "Chế độ xem trước"
   },
   "dashboard": {
     "thang": "Tháng",
@@ -162,7 +164,10 @@
     "xacThang": "Xác nhận tháng",
     "danhSachDonVi": "Danh sách đơn vị",
     "khongTimThayKetQua": "Không tìm thấy kết quả",
-    "tuKhoa": "Từ khóa"
+    "tuKhoa": "Từ khóa",
+    "tatCaDonVi": "Tất cả đơn vị",
+    "trangThai": "Trạng thái",
+    "tinhTrang": "Tình trạng"
   },
   "dashboard_widgets": {
     "shortMonthPrefix": "Thg ",
@@ -179,7 +184,10 @@
     "top5DonViPhanHoiTeNhat": "Top 5 đơn vị phản hồi tệ nhất",
     "top5LinhVucBiPhanAnhNhieuNhat": "Top 5 lĩnh vực bị phản ánh nhiều nhất",
     "top5LinhVucTonNhieuPhanAnh": "Top 5 lĩnh vực tồn nhiều phản ánh",
-    "top5LinhVucXuLyNhieuPhanAnh": "Top 5 lĩnh vực xử lý nhiều phản ánh"
+    "top5LinhVucXuLyNhieuPhanAnh": "Top 5 lĩnh vực xử lý nhiều phản ánh",
+    "chiTietThongKe": "Chi tiết thống kê",
+    "tong": "Tổng ",
+    "khongCoDuLieu": "Không có dữ liệu"
   },
   "chart": {
     "khongCoDuLieu": "Không có dữ liệu",

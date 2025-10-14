@@ -133,7 +133,9 @@
     "vuilongchonhinhthuc": "Please choose a type",
     "vuilongchonhanxuly": "Please choose a deadline",
     "vuilongchondonvixuly": "Please choose a processing unit",
-    "bancomuonxoaphananh": "Do you want to delete this feedback?"
+    "bancomuonxoaphananh": "Do you want to delete this feedback?",
+    "congkhaiphananh": "Public feedback",
+    "chedoxemtruoc": "Preview before sending"
   },
   "dashboard": {
     "thang": "Month",
@@ -184,7 +186,13 @@
     "top5DonViPhanHoiTeNhat": "Top 5 worst response units",
     "top5LinhVucBiPhanAnhNhieuNhat": "Top 5 most reflected fields",
     "top5LinhVucTonNhieuPhanAnh": "Top 5 fields with most complaints",
-    "top5LinhVucXuLyNhieuPhanAnh": "Top 5 fields with most processed complaints"
+    "top5LinhVucXuLyNhieuPhanAnh": "Top 5 fields with most processed complaints",
+    "chiTietThongKe": "Statistics detail",
+    "tong": "Total ",
+    "khongCoDuLieu": "No data",
+    "tatCaDonVi": "All units",
+    "trangThai": "Status",
+    "tinhTrang": "Condition"
   },
   "chart": {
     "khongCoDuLieu": "No data",
